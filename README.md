@@ -8,7 +8,7 @@
 ## 🌐 Connect With Me  
 
 <p align="left">
-  <a href="https://github.com/Samiya-K07">
+  <a href="https://github.com/iqraashraf207">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -60,23 +60,6 @@
 ### 🔐 File Integrity Monitor (Python)  
 🔹 CLI tool using SHA-256 hashing  
 🔹 Detects file changes across directories  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samiya-K07&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiya-K07&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🔥 GitHub Streak  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samiya-K07&theme=tokyonight" />
-</p>
 
 ---
 
