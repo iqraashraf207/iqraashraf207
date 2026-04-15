@@ -47,8 +47,8 @@
 ---
 
 ## 📈 Experience & Activities  
-- 🧠 Team Lead at AIESEC  
-- 🎯 Marketing & Sponsorship @ PROCOM'26 and DevDay'25
+- 🧠 Team Lead @ AIESEC  
+- 🎯 Marketing & Sponsorship @ PROCOM'26 & DevDay'25
 - ⚡ Competitive Programming & CTF Participant  
 
 ---
