@@ -57,7 +57,7 @@
 
 - GitHub: https://github.com/iqraashraf207  
 - Email: iqraashraf3217@gmail.com  
-- LinkedIn: linkedin.com/in/iqra-ashraf-2b1876331   
+- LinkedIn: https://linkedin.com/in/iqra-ashraf-2b1876331   
 
 ---
 
