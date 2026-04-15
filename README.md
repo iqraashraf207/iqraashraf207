@@ -1,87 +1,63 @@
 # 👋 Hi, I'm Iqra Ashraf  
 
 🎓 CS Student at FAST National University of Computer and Emerging Sciences  
-💻 Passionate about systems, algorithms, and building efficient solutions  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-  <a href="https://github.com/iqraashraf207">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+💻 Passionate about systems, algorithms, and building efficient software solutions  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-grey?style=for-the-badge)
-
----
-
-### 🌐 Web & Databases  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
-
----
-
-### ⚙️ Tools & OS  
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+**Languages:** C, C++, Python, JavaScript, x86 Assembly  
+**Web:** HTML, CSS, JavaScript  
+**Databases:** SQL, Oracle  
+**Tools:** Git, VS Code, Linux, Windows  
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🛒 E-Commerce Store System (C++)  
-🔹 AVL Trees for fast product search  
-🔹 Graph algorithms (Dijkstra + Prim) for delivery routing  
+### 🛒 E-Commerce Store System (C++)
+- Implemented AVL Trees for efficient product search (O(log n))
+- Used Graph algorithms (Dijkstra & Prim) for delivery routing optimization
+- Focused on data structures and system-level design
 
 ---
 
-### 🎮 Quiz Game with GUI (C++)  
-🔹 Built using Raylib + RayGUI  
-🔹 Modular OOP design with dynamic question bank  
+### 🔐 File Integrity Monitor (Python)
+- Built a CLI tool using SHA-256 hashing
+- Detects unauthorized file changes in real time
+- Cybersecurity-focused monitoring system
 
 ---
 
-### 🔐 File Integrity Monitor (Python)  
-🔹 CLI tool using SHA-256 hashing  
-🔹 Detects file changes across directories  
+### 🎮 Quiz Game with GUI (C++)
+- Developed using Raylib + RayGUI
+- Modular OOP architecture with file-based question loading
+- Clean separation of game logic and UI
 
 ---
 
-## 🚀 Current Focus  
-
-- 📚 Data Structures & Algorithms  
-- 🖥️ Operating Systems  
-- ⚡ Building impactful projects  
+## 🚀 Current Interests  
+- Data Structures & Algorithms  
+- Operating Systems  
+- Computer Networks  
+- Cyber Security  
+- Artificial Intelligence   
 
 ---
 
-## 📈 Beyond Code  
-
+## 📈 Experience & Activities  
 - 🧠 Team Lead at AIESEC  
-- 🎯 Marketing & Sponsorship @ PROCOM  
-- 💡 Competitive Programming & CTF participant  
+- 🎯 Marketing & Sponsorship @ PROCOM'26 and DevDay'25
+- ⚡ Competitive Programming & CTF Participant  
 
 ---
 
-## ✨ Quote  
+## 📫 Connect With Me  
 
-> “Code is not just about solving problems — it's about solving them efficiently.”  
+- GitHub: https://github.com/iqraashraf207  
+- Email: iqraashraf3217@gmail.com  
+- LinkedIn: linkedin.com/in/iqra-ashraf-2b1876331   
 
 ---
 
