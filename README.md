@@ -35,6 +35,14 @@
 - Modular OOP architecture with file-based question loading
 - Clean separation of game logic and UI
 
+⚙️ **Website Uptime Monitoring & Alert System (n8n)**
+- Built a no-code DevOps-style automation workflow using n8n
+- Monitors website availability at scheduled intervals using HTTP requests
+- Implements conditional logic to detect downtime (status code monitoring)
+- Sends real-time email alerts using Gmail OAuth2 integration
+- Simulates real-world infrastructure monitoring systems used in DevOps environments
+- Fully extensible for multi-site monitoring and cloud deployment
+
 ---
 
 ## 🚀 Current Interests  
@@ -42,7 +50,8 @@
 - Operating Systems  
 - Computer Networks  
 - Cyber Security  
-- Artificial Intelligence   
+- Artificial Intelligence
+- DevOps & Automation (n8n workflows, monitoring systems)
 
 ---
 
