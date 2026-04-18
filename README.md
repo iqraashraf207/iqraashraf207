@@ -10,7 +10,7 @@
 **Languages:** C, C++, Python, JavaScript, x86 Assembly  
 **Web:** HTML, CSS, JavaScript  
 **Databases:** SQL, Oracle  
-**Tools:** Git, VS Code, Linux, Windows  
+**Tools:** Git, VS Code, Linux, Windows, Docker, n8n (Workflow Automation)
 
 ---
 
