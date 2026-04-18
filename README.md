@@ -35,7 +35,9 @@
 - Modular OOP architecture with file-based question loading
 - Clean separation of game logic and UI
 
-⚙️ **Website Uptime Monitoring & Alert System (n8n)**
+---  
+
+### ⚙️ Website Uptime Monitoring & Alert System (n8n)
 - Built a no-code DevOps-style automation workflow using n8n
 - Monitors website availability at scheduled intervals using HTTP requests
 - Implements conditional logic to detect downtime (status code monitoring)
