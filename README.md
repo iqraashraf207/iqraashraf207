@@ -1,75 +1,39 @@
-# 👋 Hi, I'm Iqra Ashraf  
+Iqra Ashraf
+CS Undergraduate at FAST-NUCES, Karachi · Class of 2028 · Dean's List
+Interested in AI systems, cybersecurity, and cloud infrastructure. I like understanding how things work under the hood and then building on top of that.
 
-🎓 CS Student at FAST National University of Computer and Emerging Sciences  
-💻 Passionate about systems, algorithms, and building efficient software solutions  
+Tech Stack
+Languages: C, C++, Python, JavaScript, x86 Assembly
+Web & Databases: HTML, CSS, SQL, PostgreSQL, Oracle, MongoDB, Supabase
+Frameworks & Tools: FastAPI, Node.js, Docker, Git, Linux, VS Code, n8n, Netlify
+Concepts: REST APIs, Concurrent Programming, SHA-256 Hashing, Graph Algorithms, OOP Design
 
----
+Projects
+AI-Powered Campus Recruitment & ATS
+Python · FastAPI · Node.js · Supabase · Netlify
+Full-stack recruitment platform with three intelligent agents: resume parsing, candidate ranking, and job matching. Deployed via Netlify with Supabase as managed backend.
+AI Agent — Google Sheets Query Chatbot
+Gemini API · n8n · Google Sheets
+Conversational AI agent that takes natural language queries and retrieves answers from structured, column-defined Google Sheets data using the Gemini API.
+File Integrity Monitor
+Python
+CLI cybersecurity tool that detects unauthorized file additions, deletions, and modifications using SHA-256 hashing. Generates baseline snapshots and flags deviations on subsequent scans.
+Multi-Threaded Producer-Consumer Simulation
+C · PThreads · Semaphores · Mutex
+Implements shared buffer and producer thread logic with mutex locking to prevent race conditions in concurrent data access.
+E-Commerce Store System
+C++
+O(log n) product search using AVL Trees. Delivery routing modelled as a graph problem using Dijkstra's and Prim's algorithms.
 
-## 🛠️ Tech Stack  
+Activities
 
-**Languages:** C, C++, Python, JavaScript, x86 Assembly  
-**Web:** HTML, CSS, JavaScript  
-**Databases:** SQL, Oracle  
-**Tools:** Git, VS Code, Linux, Windows, Docker, n8n (Workflow Automation)
+Competitive Programming — Code Sprint, Blind Code Battle
+CTF — Protocol Genesis, ACM CyberSecurity Chapter FAST-NUCES
+Assistant Marketing Director — PROCOM '26 (5,000+ attendees, 50+ corporate partners)
 
----
 
-## 📌 Featured Projects  
+Contact
 
-### 🛒 E-Commerce Store System (C++)
-- Implemented AVL Trees for efficient product search (O(log n))
-- Used Graph algorithms (Dijkstra & Prim) for delivery routing optimization
-- Focused on data structures and system-level design
-
----
-
-### 🔐 File Integrity Monitor (Python)
-- Built a CLI tool using SHA-256 hashing
-- Detects unauthorized file changes in real time
-- Cybersecurity-focused monitoring system
-
----
-
-### 🎮 Quiz Game with GUI (C++)
-- Developed using Raylib + RayGUI
-- Modular OOP architecture with file-based question loading
-- Clean separation of game logic and UI
-
----  
-
-### ⚙️ Website Uptime Monitoring & Alert System (n8n)
-- Built a no-code DevOps-style automation workflow using n8n
-- Monitors website availability at scheduled intervals using HTTP requests
-- Implements conditional logic to detect downtime (status code monitoring)
-- Sends real-time email alerts using Gmail OAuth2 integration
-- Simulates real-world infrastructure monitoring systems used in DevOps environments
-- Fully extensible for multi-site monitoring and cloud deployment
-
----
-
-## 🚀 Current Interests  
-- Data Structures & Algorithms  
-- Operating Systems  
-- Computer Networks  
-- Cyber Security  
-- Artificial Intelligence
-- DevOps & Automation (n8n workflows, monitoring systems)
-
----
-
-## 📈 Experience & Activities  
-- 🧠 Team Lead @ AIESEC  
-- 🎯 Marketing & Sponsorship @ PROCOM'26 & DevDay'25
-- ⚡ Competitive Programming & CTF Participant  
-
----
-
-## 📫 Connect With Me  
-
-- GitHub: https://github.com/iqraashraf207  
-- Email: iqraashraf3217@gmail.com  
-- LinkedIn: https://linkedin.com/in/iqra-ashraf-2b1876331   
-
----
-
-⭐ Open to internships, collaborations, and learning opportunities!
+Email: iqraashraf3217@gmail.com
+LinkedIn: linkedin.com/in/iqra-ashraf-2b1876331
+Open to internships in AI, cloud, and cybersecurity
