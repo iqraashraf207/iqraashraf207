@@ -2,7 +2,7 @@
 
 CS Undergraduate at FAST-NUCES, Karachi · Class of 2028 · Dean's List
 
-Interested in AI systems, cybersecurity, and cloud infrastructure. I like understanding how things work under the hood and then building on top of that.
+Aspiring AI engineer building LLM agents, automation workflows, and ML systems, with a growing focus on AI security. I like understanding how things work under the hood and then building on top of that.
 
 ## Tech Stack
 
