@@ -6,13 +6,16 @@ Aspiring AI engineer building LLM agents, automation workflows, and ML systems, 
 
 ## Tech Stack
 
-| | |
+| Area | Technologies |
 |---|---|
-| **Languages** | C, C++, Python, JavaScript, x86 Assembly |
-| **Web & Databases** | HTML, CSS, SQL, PostgreSQL, Oracle, MongoDB, Supabase |
-| **Frameworks & Tools** | FastAPI, Node.js, Docker, Git, Linux, VS Code, n8n, Netlify |
-| **ML & Security** | XGBoost, scikit-learn, Adversarial Robustness Toolbox, Jupyter |
-| **Concepts** | REST APIs, Concurrent Programming, SHA-256 Hashing, Graph Algorithms, OOP Design, Adversarial ML, Intrusion Detection |
+| **Languages** | Python, JavaScript (ES6+), C, C++, SQL, x86 Assembly |
+| **Frontend** | React, Next.js, HTML, CSS |
+| **Backend & APIs** | Node.js, FastAPI, REST APIs, OAuth2 |
+| **Databases** | PostgreSQL / Supabase, Oracle PL/SQL, SQLite, MongoDB |
+| **ML & Security** | XGBoost, scikit-learn, Adversarial Robustness Toolbox, pandas, NumPy, Jupyter |
+| **Agentic AI & Automation** | Gemini API, LiteLLM, n8n, Redis / RQ, Slack and WhatsApp bots |
+| **Tools & DevOps** | Git, Docker, Linux, VM deployment, Netlify, VS Code |
+| **Concepts** | Adversarial ML, Intrusion Detection, SHA-256 Hashing, Concurrent Programming, Graph Algorithms, OOP Design, Schema Design |
 
 ## Projects
 
