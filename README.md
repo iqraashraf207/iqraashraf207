@@ -31,6 +31,11 @@ Full-stack recruitment platform with three intelligent agents: resume parsing, c
 
 Conversational AI agent that takes natural language queries and retrieves answers from structured, column-defined Google Sheets data using the Gemini API.
 
+### n8n Uptime Monitor
+`n8n` `Automation` `Email Alerts`
+
+n8n workflow that monitors website availability on a schedule and sends email alerts when downtime is detected.
+
 ### File Integrity Monitor
 `Python`
 
